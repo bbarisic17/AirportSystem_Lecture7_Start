@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+4AwURXKPpSfezxrLeCZENlMpaWPjMXSDfbKxnbCma0Tgoq1/ByxBByjQH1PaQ5a0cqTuLfbMgrgoZUUQYTakg==",
+  "dgSpecHash": "fn+wMDaO17UVixkd5NphGov3U+IadmPXuZYgimLs+Z0SiaP2DEqBwvW8H0wuikq3LgitCVXiIaXKavoMBe/RBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture5_Start\\DomainModel\\DomainModel.csproj",
+  "projectFilePath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture6\\DomainModel\\DomainModel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
