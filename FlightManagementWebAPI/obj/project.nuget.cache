@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XaTLuYYDG5lCnzD/uBNu+MyoEoHplbavaUrT59bQhyMiMQYmYXdsEDT1Bp1QvUn0T6A5xfmMjwwYWesGAyJFKg==",
+  "dgSpecHash": "0iKBWg9n5lFxPqFwQjQDTg4zj7wPefTifOZJKxKDL3WOoG/3g4qn//w3q0qbpwea3iZ6LaaAHRp1Ca6WKiPg3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture6\\FlightManagementWebAPI\\FlightManagementWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture7_Start\\FlightManagementWebAPI\\FlightManagementWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bojan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bojan\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

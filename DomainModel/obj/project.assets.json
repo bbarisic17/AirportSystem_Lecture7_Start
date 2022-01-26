@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture6\\DomainModel\\DomainModel.csproj",
+      "projectUniqueName": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture7_Start\\DomainModel\\DomainModel.csproj",
       "projectName": "DomainModel",
-      "projectPath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture6\\DomainModel\\DomainModel.csproj",
+      "projectPath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture7_Start\\DomainModel\\DomainModel.csproj",
       "packagesPath": "C:\\Users\\Bojan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture6\\DomainModel\\obj\\",
+      "outputPath": "C:\\Users\\Bojan\\Desktop\\AirportSystem_Lecture7_Start\\DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bojan\\AppData\\Roaming\\NuGet\\NuGet.Config",
